@@ -1,0 +1,14 @@
+host: 0.0.0.0
+port: 18888
+token: 334345325EXPVPENasfGILIKGIPg5467FRXWWEFV
+webserver: true
+server:
+    - port: "8880"
+      ssl: 1
+      proxypool: ssl://eth.ethermine.org:4444
+      devfee: 0
+      devpool: ""
+      addr: ""
+      worker: ""
+      reconnect: 20
+      clientnum: 0
