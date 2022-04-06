@@ -1,3 +1,7 @@
+## 发布说明
+- 说明1：当前版本仅对作者抽水进行修改降低， 并未完全删除，尊重作者原创
+- 说明2：版软件为自用，原版作者抽水降低为0.2%，请勿再私信我提供0抽版本。
+
 ## ✨  BabyProxy ✨  · 以太坊抽水、转发矿池，一键搭建私人 minerProxy 矿池
 ## ✨  BabyProxy ✨  · ETH Pool Redirect & Charge. One key deploy ETH Private minerProxy pool
 
@@ -63,7 +67,7 @@ chmod +x babyProxy
 - session运行：
   ```bash
   chmod +x babyProxy_web
-  bash ./babyProxy_web
+  ./babyProxy_web
   ```
 - 后台持久化运行：
   ```bash
